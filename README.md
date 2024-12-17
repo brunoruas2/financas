@@ -1,41 +1,32 @@
-# Website
+# 📚 FIN - Anotações de Estudos sobre Finanças
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Este é o código-fonte do meu site pessoal desenvolvido com **Docusaurus**. Aqui organizo e compartilho anotações sobre **finanças**, incluindo estudos sobre investimentos, planejamento financeiro e mercado financeiro.
 
-### Installation
+---
 
-```
-$ yarn
-```
+## 🚀 Funcionalidades
 
-### Local Development
+- 📄 **Conteúdo Organizado**: Anotações categorizadas por temas.  
+- 🔍 **Busca Rápida**: Encontre informações facilmente.  
+- 📝 **Estilo Limpo**: Layout focado na leitura.  
+- 🌐 **Responsivo**: Funciona em desktop e dispositivos móveis.  
 
-```
-$ yarn start
-```
+---
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## 🛠️ Tecnologias
 
-### Build
+- [**Docusaurus**](https://docusaurus.io/) - Framework para documentação estática.  
+- **Markdown** - Formato dos conteúdos.  
+- **Git** e **GitHub** - Versionamento e hospedagem.  
 
-```
-$ yarn build
-```
+---
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## 📂 Estrutura do Projeto
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+```plaintext
+FIN_site/
+├── docs/                 # Anotações em Markdown
+├── src/                  # Código-fonte customizado
+├── static/               # Arquivos estáticos (imagens, etc.)
+├── docusaurus.config.js  # Configuração do site
+└── README.md             # Documentação do projeto
