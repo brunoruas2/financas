@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: Welcome
+title: Complex Long Blog Post Model
 authors: [ruasbr]
 tags: [hello]
 ---

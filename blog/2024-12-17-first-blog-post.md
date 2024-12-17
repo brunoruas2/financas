@@ -1,6 +1,6 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: Small Blog Post Model
 authors: [ruasbr]
 tags: [hola, docusaurus]
 ---

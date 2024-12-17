@@ -1,6 +1,6 @@
 ---
 slug: long-blog-post
-title: Long Blog Post
+title: Long Blog Post Model
 authors: yangshun
 tags: [hello, docusaurus]
 ---

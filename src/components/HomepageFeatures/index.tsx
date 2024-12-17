@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Aviso!',
+    Svg: require('@site/static/img/desk-lamp-svgrepo-com.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Nada do que você ler aqui pode ser encarado como indicação de investimento ou contém alguma garantia que o comportamento passado do mercado se repetirá no futuro.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Quem sou eu?',
+    Svg: require('@site/static/img/office-chair-svgrepo-com.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Me chamo Bruno de Melo Ruas. Sou bacharel em Economia (UEA) e Analista de Sistemas (PUC-MG). Gosto muito de estudar e publicar meus aprendizados em sites para ajudar outras pessoas.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Pensando em virar Desenvolvedor?',
+    Svg: require('@site/static/img/monitor-svgrepo-com.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Se você tem interesse em aprender programação, pode conferir <a href="https://brunoruas2.github.io/CC_site/" target="_blank" rel="noopener noreferrer"><code>meu outro site</code></a>.
       </>
     ),
   },
